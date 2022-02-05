@@ -192,4 +192,4 @@
          FROM MEMBER
         WHERE MEM_MILEAGE >ANY(SELECT MEM_MILEAGE --ANY=SOME
                                 FROM MEMBER
-                               WHERE MEM_JOB='공무원');
+                               WHERE MEM_JOB='공무원'); 
