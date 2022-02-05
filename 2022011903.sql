@@ -28,23 +28,3 @@
          FROM HR.DEPARTMENTS B, HR.EMPLOYEES C 
         WHERE C.DEPARTMENT_ID = B.DEPARTMENT_ID
         ORDER BY 1;
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
