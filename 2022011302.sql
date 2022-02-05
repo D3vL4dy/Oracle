@@ -50,17 +50,3 @@
         GROUP BY B.PROD_NAME;                   
        
        COMMIT;
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
