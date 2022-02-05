@@ -84,17 +84,3 @@
         WHERE SUBSTR(CART_NO,1,6) BETWEEN '200504' AND '200507'
         GROUP BY CUBE(SUBSTR(CART_NO,5,2),CART_MEMBER,CART_PROD)
         ORDER BY 1;
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
