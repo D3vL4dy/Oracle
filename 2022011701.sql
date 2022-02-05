@@ -130,10 +130,3 @@
              WHERE BUY_DATE BETWEEN TO_DATE('20050101') AND TO_DATE('20050131')
              GROUP BY BUY_PROD) C
      WHERE C.SQC = B.MBS;        
-    
-         
-         
-         
-         
-         
-         
