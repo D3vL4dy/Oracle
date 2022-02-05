@@ -153,19 +153,4 @@
           AND C.CART_QTY = (SELECT MAX(D.CART_QTY)
                               FROM CART D 
                              WHERE D.CART_MEMBER = C.CART_MEMBER)
-        ORDER BY 1;        
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+        ORDER BY 1; 
