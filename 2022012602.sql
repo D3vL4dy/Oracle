@@ -102,12 +102,3 @@
       DBMS_OUTPUT.PUT_LINE('원의 너비 : '||V_CIRCLE);
       DBMS_OUTPUT.PUT_LINE('사각형의 너비 : '||V_SQUARE);
     END;  
-     
-   
-        
-        
-        
-        
-        
-        
-        
