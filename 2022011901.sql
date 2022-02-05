@@ -45,25 +45,3 @@
       WHERE SUBSTR(C.CART_NO,1,4) = '2005'
       GROUP BY A.BUYER_ID, A.BUYER_NAME, B.PROD_NAME
       ORDER BY 1;
-       
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
