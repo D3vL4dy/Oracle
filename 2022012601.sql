@@ -62,7 +62,3 @@
    ALTER INDEX 인덱스명 REBUILD; --새로운 위치값으로 인덱스를 갱신해야 할 필요가 있을 경우 사용
    
    ALTER INDEX idx_prod_name REBUILD; 
-   
-  
-  
-  
