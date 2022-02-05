@@ -59,38 +59,3 @@
         WHERE A.JOB_ID = B.JOB_ID --직무명을 가져오기 위한 조건
           AND A.SALARY > C.ASAL
         ORDER BY 4 DESC;
-        
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
