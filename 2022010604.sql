@@ -59,9 +59,3 @@
            
     SELECT * FROM GOODS; --WHERE절이 생략되면 모든 행이 수정됨
     COMMIT;
-  
-  
-  
-  
-  
-  
