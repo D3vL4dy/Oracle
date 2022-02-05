@@ -156,15 +156,4 @@
               END AS 생년월일,  --결과를 날짜타입=>출력타입         
               MEM_JOB AS 직업,   
               MEM_MILEAGE AS 마일리지 
-         FROM MEMBER;   
-        
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+         FROM MEMBER; 
