@@ -279,21 +279,4 @@
               GROUP BY CC.CART_PROD) C  
       WHERE A.PROD_ID = B.BID(+) --(+):외부조인(많은 것을 기준으로 출력)
         AND A.PROD_ID = C.CID(+)
-      ORDER BY 1;  
-    
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+      ORDER BY 1;
