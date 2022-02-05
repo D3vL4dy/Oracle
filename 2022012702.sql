@@ -52,7 +52,4 @@
         V_CNT:=V_CNT+1;
       END LOOP;
     END;  
-    ROLLBACK;
-       
-               
-      
+    ROLLBACK;   
