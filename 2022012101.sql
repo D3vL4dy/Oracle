@@ -88,18 +88,3 @@
     WHERE A.PROD_ID = B.BID(+) --A를 기준으로 B가 확장
       AND A.PROD_ID = C.CID(+) --A를 기준으로 C가 확장
     ORDER BY 1; 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
