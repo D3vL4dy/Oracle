@@ -252,12 +252,4 @@
                          
     SELECT MEM_ID, MEM_MILEAGE
       FROM MEMBER;
-    COMMIT;  
- 
-     
-     
-     
-     
-     
-     
-     
+    COMMIT; 
