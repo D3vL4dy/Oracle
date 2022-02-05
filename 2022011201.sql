@@ -83,18 +83,3 @@
               MOD(ROUND(MONTHS_BETWEEN(
                 SYSDATE,TO_DATE('19980310'))),12)||'°³¿ù'
          FROM DUAL;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
