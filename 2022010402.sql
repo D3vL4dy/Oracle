@@ -43,9 +43,3 @@
         REFERENCES ORDERS(ORDER_ID),
       CONSTRAINT fk_ogoods_goods FOREIGN KEY(GOOD_ID)
         REFERENCES GOODS(GOOD_ID));
-    
-    
-    
-    
-    
-        
