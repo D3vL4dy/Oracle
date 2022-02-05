@@ -131,11 +131,3 @@
           AND A.BUY_DATE BETWEEN '20050401' AND '20050430' --날짜데이터에 LIKE 금지
         GROUP BY A.BUY_PROD,B.PROD_NAME
         ORDER BY 1;
-        
-       
-       
-       
-       
-       
-       
-       
