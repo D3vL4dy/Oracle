@@ -36,10 +36,3 @@
  
  7)테이블 이름 변경 
    ALTER TABLE old_테이블명 RENAME TO new_테이블명;
-   
-   
-   
-   
-   
-   
-   
