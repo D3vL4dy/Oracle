@@ -51,20 +51,4 @@
               FIRST_NAME,
               LAST_NAME,
               INITCAP(FIRST_NAME||' '||LAST_NAME)
-         FROM HR.EMPLOYEES;    
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
+         FROM HR.EMPLOYEES; 
