@@ -78,19 +78,3 @@
    END;
    
    SELECT * FROM TEMP_09;
-  
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
