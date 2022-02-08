@@ -38,3 +38,6 @@
 - 2022020302.sql : 커서(CURSOR)
 - 2022020401.sql : 저장 프로시저(Stored Procedure)
 - 2022020402.sql : 함수(user Defined Function)
+- 2022020701.sql : 트리거(TRIGGER) 1
+- 2022020801.sql : 트리거(TRIGGER) 2
+- 2022020802.sql : 트리거(TRIGGER) 3
